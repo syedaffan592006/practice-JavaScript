@@ -1,10 +1,6 @@
-alert(message);
-
-/* Question 4 */
-let student_name = prompt("Enter Your Name");
-let student_age = prompt("Enter Your Age");
 /* Question 1 */
 let username;
+alert(message);
 
 /* Question 2 */
 let myname = "Sufyan Sami";
@@ -22,6 +18,10 @@ alert(
     "Student Course: " +
     student_course
 );
+
+/* Question 4 */
+let student_name = prompt("Enter Your Name");
+let student_age = prompt("Enter Your Age");
 
 /* Question 5 */
 alert("PIZZA" + "\n" + "PIZZ" + "\n" + "PIZ" + "\n" + "PI" + "\n" + "P");
