@@ -17,10 +17,12 @@ let Geeks123;
 
 // Q3:
 // (A)
-let sentence = "Rules for namung JS variable"
-console.log(sentence)
-document.write(sentence)
-
+let sentence = "Rules for namung JS variable" 
+document.write(sentence) + "\n"
+// Q3
+// (B)
+let word ="variables names can only contain alpha,numeric characters ,underscores " + "\n"
+document.write(word)
 
 
 
