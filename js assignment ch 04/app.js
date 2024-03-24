@@ -17,7 +17,9 @@ let Geeks123;
 
 // Q3:
 // (A)
-document.write("Rules for namung JS variable")
+let sentence = "Rules for namung JS variable"
+console.log(sentence)
+document.write(sentence)
 
 
 
